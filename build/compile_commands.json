@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/home/nicholasweist/cps230/program1/cps230-prog1-AspiringIT/build",
+  "command": "/usr/bin/cc -DGUI8_BG_B=0 -DGUI8_BG_G=0x66 -DGUI8_BG_R=0x99 -DGUI8_FG_B=0 -DGUI8_FG_G=0xCC -DGUI8_FG_R=0xFF -I/usr/include/SDL2 -g -o CMakeFiles/gui8.dir/gui.c.o -c /home/nicholasweist/cps230/program1/cps230-prog1-AspiringIT/gui.c",
+  "file": "/home/nicholasweist/cps230/program1/cps230-prog1-AspiringIT/gui.c"
+},
+{
+  "directory": "/home/nicholasweist/cps230/program1/cps230-prog1-AspiringIT/build",
+  "command": "/usr/bin/cc -DGUI8_BG_B=0 -DGUI8_BG_G=0x66 -DGUI8_BG_R=0x99 -DGUI8_FG_B=0 -DGUI8_FG_G=0xCC -DGUI8_FG_R=0xFF -I/usr/include/SDL2 -g -o CMakeFiles/gui8.dir/chip8.c.o -c /home/nicholasweist/cps230/program1/cps230-prog1-AspiringIT/chip8.c",
+  "file": "/home/nicholasweist/cps230/program1/cps230-prog1-AspiringIT/chip8.c"
+},
+{
+  "directory": "/home/nicholasweist/cps230/program1/cps230-prog1-AspiringIT/build",
+  "command": "/usr/bin/cc -DGUI8_BG_B=0 -DGUI8_BG_G=0x66 -DGUI8_BG_R=0x99 -DGUI8_FG_B=0 -DGUI8_FG_G=0xCC -DGUI8_FG_R=0xFF -I/usr/include/SDL2 -g -o CMakeFiles/test8.dir/test.c.o -c /home/nicholasweist/cps230/program1/cps230-prog1-AspiringIT/test.c",
+  "file": "/home/nicholasweist/cps230/program1/cps230-prog1-AspiringIT/test.c"
+},
+{
+  "directory": "/home/nicholasweist/cps230/program1/cps230-prog1-AspiringIT/build",
+  "command": "/usr/bin/cc -DGUI8_BG_B=0 -DGUI8_BG_G=0x66 -DGUI8_BG_R=0x99 -DGUI8_FG_B=0 -DGUI8_FG_G=0xCC -DGUI8_FG_R=0xFF -I/usr/include/SDL2 -g -o CMakeFiles/test8.dir/chip8.c.o -c /home/nicholasweist/cps230/program1/cps230-prog1-AspiringIT/chip8.c",
+  "file": "/home/nicholasweist/cps230/program1/cps230-prog1-AspiringIT/chip8.c"
+}
+]

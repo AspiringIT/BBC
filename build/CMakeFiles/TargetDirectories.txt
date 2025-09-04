@@ -1,0 +1,4 @@
+/home/nicholasweist/cps230/program1/cps230-prog1-AspiringIT/build/CMakeFiles/gui8.dir
+/home/nicholasweist/cps230/program1/cps230-prog1-AspiringIT/build/CMakeFiles/test8.dir
+/home/nicholasweist/cps230/program1/cps230-prog1-AspiringIT/build/CMakeFiles/edit_cache.dir
+/home/nicholasweist/cps230/program1/cps230-prog1-AspiringIT/build/CMakeFiles/rebuild_cache.dir
